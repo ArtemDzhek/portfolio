@@ -1,0 +1,7 @@
+[id^=page]:checked ~ .info-wrapper{
+   display: flex;
+}
+[id^=page]:checked + [class^=label]{
+   z-index: 5;
+   top: -6%;
+}

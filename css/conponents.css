@@ -1,0 +1,9 @@
+body{
+   font-family: 'EB Garamond';
+}
+.container{
+   margin: 0 auto;
+   max-width: 1380px;
+   padding-left: 10px;
+   padding-right: 10px; 
+}
